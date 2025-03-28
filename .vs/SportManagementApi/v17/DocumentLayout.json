@@ -1,0 +1,1008 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagementapi\\controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|solutionrelative:src\\sportmanagementapi\\controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagementapi\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|solutionrelative:src\\sportmanagementapi\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\interfaces\\iplayerinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\interfaces\\iplayerinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.domain\\configurations\\servicepagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|solutionrelative:src\\sportmanagement.domain\\configurations\\servicepagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\services\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\services\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.domain\\configurations\\pagination\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|solutionrelative:src\\sportmanagement.domain\\configurations\\pagination\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.domain\\configurations\\pagination\\paginationmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|solutionrelative:src\\sportmanagement.domain\\configurations\\pagination\\paginationmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.domain\\configurations\\helpers\\httpaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|solutionrelative:src\\sportmanagement.domain\\configurations\\helpers\\httpaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.domain\\sportmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|solutionrelative:src\\sportmanagement.domain\\sportmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|solutionrelative:src\\sportmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\dtos\\players\\playerforresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\dtos\\players\\playerforresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\dtos\\players\\playerforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\dtos\\players\\playerforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\dtos\\players\\playerforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\dtos\\players\\playerforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.domain\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|solutionrelative:src\\sportmanagement.domain\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.domain\\entities\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|solutionrelative:src\\sportmanagement.domain\\entities\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\dtos\\matches\\matchforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\dtos\\matches\\matchforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\dtos\\matches\\matchforresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\dtos\\matches\\matchforresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\dtos\\scores\\scoreforresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\dtos\\scores\\scoreforresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\dtos\\teams\\teamforresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\dtos\\teams\\teamforresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\dtos\\teams\\teamforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\dtos\\teams\\teamforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\dtos\\teams\\teamforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\dtos\\teams\\teamforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\interfaces\\iscoreinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\interfaces\\iscoreinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\interfaces\\imatchinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\interfaces\\imatchinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\dtos\\scores\\scoreforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\dtos\\scores\\scoreforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\dtos\\scores\\scoreforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\dtos\\scores\\scoreforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\dtos\\matches\\matchforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\dtos\\matches\\matchforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagementapi\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|solutionrelative:src\\sportmanagementapi\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagementapi\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|solutionrelative:src\\sportmanagementapi\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagementapi\\helpers\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|solutionrelative:src\\sportmanagementapi\\helpers\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagementapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|solutionrelative:src\\sportmanagementapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagementapi\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|solutionrelative:src\\sportmanagementapi\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagementapi\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|solutionrelative:src\\sportmanagementapi\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagementapi\\sportmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|solutionrelative:src\\sportmanagementapi\\sportmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\interfaces\\iteaminterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\interfaces\\iteaminterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.domain\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|solutionrelative:src\\sportmanagement.domain\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.domain\\entities\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|solutionrelative:src\\sportmanagement.domain\\entities\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\sportmanagement.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\sportmanagement.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.service\\exceptions\\sportmanagementexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9548B-B4C7-0ECA-1CD5-18323814C0BA}|src\\SportManagement.Service\\SportManagement.Service.csproj|solutionrelative:src\\sportmanagement.service\\exceptions\\sportmanagementexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7901CE17-133B-D3A5-7961-8A5DB96414A7}|src\\SportManagement.Data\\SportManagement.Data.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.data\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7901CE17-133B-D3A5-7961-8A5DB96414A7}|src\\SportManagement.Data\\SportManagement.Data.csproj|solutionrelative:src\\sportmanagement.data\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.domain\\common\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D871618-A1DA-BD53-5C6A-BBA96F694F3F}|src\\SportManagement.Domain\\SportManagement.Domain.csproj|solutionrelative:src\\sportmanagement.domain\\common\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|solutionrelative:src\\sportmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7901CE17-133B-D3A5-7961-8A5DB96414A7}|src\\SportManagement.Data\\SportManagement.Data.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.data\\sportmanagement.data.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7901CE17-133B-D3A5-7961-8A5DB96414A7}|src\\SportManagement.Data\\SportManagement.Data.csproj|solutionrelative:src\\sportmanagement.data\\sportmanagement.data.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagementapi\\sportmanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{31DF7753-970A-9FEC-FE61-39817FD7A6F1}|src\\SportManagementApi\\SportManagementApi.csproj|solutionrelative:src\\sportmanagementapi\\sportmanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagementApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportManagementApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Data\\Repositories\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportManagement.Data\\Repositories\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Data\\DbContext\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportManagement.Data\\DbContext\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Entities\\Score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportManagement.Domain\\Entities\\Score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Entities\\Match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportManagement.Domain\\Entities\\Match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Entities\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportManagement.Domain\\Entities\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Entities\\Team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportManagement.Domain\\Entities\\Team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Data\\IRepositories\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportManagement.Data\\IRepositories\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Common\\Auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportManagement.Domain\\Common\\Auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Enums\\MatchResults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportManagement.Domain\\Enums\\MatchResults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\SportManagement.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportManagement.Domain\\SportManagement.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Service\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportManagement.Service\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7901CE17-133B-D3A5-7961-8A5DB96414A7}|src\\SportManagement.Data\\SportManagement.Data.csproj|c:\\users\\zuc\\source\\repos\\sportmanagementapi\\src\\sportmanagement.data\\migrations\\20250327065605_photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7901CE17-133B-D3A5-7961-8A5DB96414A7}|src\\SportManagement.Data\\SportManagement.Data.csproj|solutionrelative:src\\sportmanagement.data\\migrations\\20250327065605_photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALoTAAAAAAAAAAAewMcTAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-27T07:14:09.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicePagination.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Configurations\\ServicePagination.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Domain\\Configurations\\ServicePagination.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Configurations\\ServicePagination.cs",
+              "RelativeToolTip": "src\\SportManagement.Domain\\Configurations\\ServicePagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T07:06:48.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerService.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Services\\PlayerService.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\Services\\PlayerService.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Services\\PlayerService.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\Services\\PlayerService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwE8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:24:16.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MatchService.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Services\\MatchService.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\Services\\MatchService.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Services\\MatchService.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\Services\\MatchService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:24:01.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScoreService.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Services\\ScoreService.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\Services\\ScoreService.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Services\\ScoreService.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\Services\\ScoreService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:24:23.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPlayerInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Interfaces\\IPlayerInterface.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\Interfaces\\IPlayerInterface.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Interfaces\\IPlayerInterface.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\Interfaces\\IPlayerInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:17:52.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatchController.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Controllers\\MatchController.cs",
+              "RelativeDocumentMoniker": "src\\SportManagementApi\\Controllers\\MatchController.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Controllers\\MatchController.cs",
+              "RelativeToolTip": "src\\SportManagementApi\\Controllers\\MatchController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:02:39.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaginationParams.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Configurations\\Pagination\\PaginationParams.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Domain\\Configurations\\Pagination\\PaginationParams.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Configurations\\Pagination\\PaginationParams.cs",
+              "RelativeToolTip": "src\\SportManagement.Domain\\Configurations\\Pagination\\PaginationParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T07:07:40.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "src\\SportManagementApi\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "src\\SportManagementApi\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:02:24.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaginationMetaData.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Configurations\\Pagination\\PaginationMetaData.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Domain\\Configurations\\Pagination\\PaginationMetaData.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Configurations\\Pagination\\PaginationMetaData.cs",
+              "RelativeToolTip": "src\\SportManagement.Domain\\Configurations\\Pagination\\PaginationMetaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T07:07:21.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HttpAccessor.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Configurations\\Helpers\\HttpAccessor.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Domain\\Configurations\\Helpers\\HttpAccessor.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Configurations\\Helpers\\HttpAccessor.cs",
+              "RelativeToolTip": "src\\SportManagement.Domain\\Configurations\\Helpers\\HttpAccessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T07:06:04.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SportManagement.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\SportManagement.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\SportManagement.Domain\\SportManagement.Domain.csproj",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\SportManagement.Domain.csproj",
+              "RelativeToolTip": "src\\SportManagement.Domain\\SportManagement.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T06:44:22.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Domain\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Entities\\Player.cs",
+              "RelativeToolTip": "src\\SportManagement.Domain\\Entities\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:48:33.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20250327065605_photo.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Data\\Migrations\\20250327065605_photo.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Data\\Migrations\\20250327065605_photo.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Data\\Migrations\\20250327065605_photo.cs",
+              "RelativeToolTip": "src\\SportManagement.Data\\Migrations\\20250327065605_photo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:56:05.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerForCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Players\\PlayerForCreationDto.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\DTOs\\Players\\PlayerForCreationDto.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Players\\PlayerForCreationDto.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\DTOs\\Players\\PlayerForCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:58:35.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerForUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Players\\PlayerForUpdateDto.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\DTOs\\Players\\PlayerForUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Players\\PlayerForUpdateDto.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\DTOs\\Players\\PlayerForUpdateDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:58:50.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\SportManagementApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Program.cs",
+              "RelativeToolTip": "src\\SportManagementApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:25:36.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerForResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Players\\PlayerForResultDto.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\DTOs\\Players\\PlayerForResultDto.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Players\\PlayerForResultDto.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\DTOs\\Players\\PlayerForResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:59:07.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Entities\\Match.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Domain\\Entities\\Match.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Entities\\Match.cs",
+              "RelativeToolTip": "src\\SportManagement.Domain\\Entities\\Match.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:47:05.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MatchForCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Matches\\MatchForCreationDto.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\DTOs\\Matches\\MatchForCreationDto.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Matches\\MatchForCreationDto.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\DTOs\\Matches\\MatchForCreationDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:53:20.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScoreForResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Scores\\ScoreForResultDto.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\DTOs\\Scores\\ScoreForResultDto.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Scores\\ScoreForResultDto.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\DTOs\\Scores\\ScoreForResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:03:54.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MatchForResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Matches\\MatchForResultDto.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\DTOs\\Matches\\MatchForResultDto.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Matches\\MatchForResultDto.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\DTOs\\Matches\\MatchForResultDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:54:00.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TeamForUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Teams\\TeamForUpdateDto.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\DTOs\\Teams\\TeamForUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Teams\\TeamForUpdateDto.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\DTOs\\Teams\\TeamForUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:05:29.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TeamForResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Teams\\TeamForResultDto.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\DTOs\\Teams\\TeamForResultDto.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Teams\\TeamForResultDto.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\DTOs\\Teams\\TeamForResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:05:21.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TeamForCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Teams\\TeamForCreationDto.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\DTOs\\Teams\\TeamForCreationDto.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Teams\\TeamForCreationDto.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\DTOs\\Teams\\TeamForCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:05:11.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IScoreInterFace.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Interfaces\\IScoreInterFace.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\Interfaces\\IScoreInterFace.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Interfaces\\IScoreInterFace.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\Interfaces\\IScoreInterFace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:18:00.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IMatchInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Interfaces\\IMatchInterface.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\Interfaces\\IMatchInterface.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Interfaces\\IMatchInterface.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\Interfaces\\IMatchInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:17:40.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScoreForUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Scores\\ScoreForUpdateDto.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\DTOs\\Scores\\ScoreForUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Scores\\ScoreForUpdateDto.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\DTOs\\Scores\\ScoreForUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:03:21.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ScoreForCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Scores\\ScoreForCreationDto.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\DTOs\\Scores\\ScoreForCreationDto.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Scores\\ScoreForCreationDto.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\DTOs\\Scores\\ScoreForCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:03:11.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MatchForUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Matches\\MatchForUpdateDto.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\DTOs\\Matches\\MatchForUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\DTOs\\Matches\\MatchForUpdateDto.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\DTOs\\Matches\\MatchForUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:53:46.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "src\\SportManagementApi\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "src\\SportManagementApi\\Controllers\\TeamController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wCwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:02:29.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Extensions\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "src\\SportManagementApi\\Extensions\\ServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Extensions\\ServiceExtension.cs",
+              "RelativeToolTip": "src\\SportManagementApi\\Extensions\\ServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:19:51.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExceptionHandlerMiddleWare.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\MiddleWares\\ExceptionHandlerMiddleWare.cs",
+              "RelativeDocumentMoniker": "src\\SportManagementApi\\MiddleWares\\ExceptionHandlerMiddleWare.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\MiddleWares\\ExceptionHandlerMiddleWare.cs",
+              "RelativeToolTip": "src\\SportManagementApi\\MiddleWares\\ExceptionHandlerMiddleWare.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:24:46.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Helpers\\Response.cs",
+              "RelativeDocumentMoniker": "src\\SportManagementApi\\Helpers\\Response.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Helpers\\Response.cs",
+              "RelativeToolTip": "src\\SportManagementApi\\Helpers\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:27:33.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ScoreController.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Controllers\\ScoreController.cs",
+              "RelativeDocumentMoniker": "src\\SportManagementApi\\Controllers\\ScoreController.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Controllers\\ScoreController.cs",
+              "RelativeToolTip": "src\\SportManagementApi\\Controllers\\ScoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:02:48.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "src\\SportManagementApi\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "src\\SportManagementApi\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:01:41.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SportManagementApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\SportManagementApi.csproj",
+              "RelativeDocumentMoniker": "src\\SportManagementApi\\SportManagementApi.csproj",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\SportManagementApi.csproj",
+              "RelativeToolTip": "src\\SportManagementApi\\SportManagementApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T21:01:31.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ITeamInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Interfaces\\ITeamInterface.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\Interfaces\\ITeamInterface.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Interfaces\\ITeamInterface.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\Interfaces\\ITeamInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:18:10.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Entities\\Team.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Domain\\Entities\\Team.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Entities\\Team.cs",
+              "RelativeToolTip": "src\\SportManagement.Domain\\Entities\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:48:24.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Entities\\Score.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Domain\\Entities\\Score.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Entities\\Score.cs",
+              "RelativeToolTip": "src\\SportManagement.Domain\\Entities\\Score.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:48:23.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Services\\TeamService.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\Services\\TeamService.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Services\\TeamService.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\Services\\TeamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:24:28.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SportManagement.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\SportManagement.Service.csproj",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\SportManagement.Service.csproj",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\SportManagement.Service.csproj",
+              "RelativeToolTip": "src\\SportManagement.Service\\SportManagement.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T20:11:08.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Mappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\Mappers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Mappers\\MappingProfile.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\Mappers\\MappingProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:11:32.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SportManagementException.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Exceptions\\SportManagementException.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Service\\Exceptions\\SportManagementException.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Service\\Exceptions\\SportManagementException.cs",
+              "RelativeToolTip": "src\\SportManagement.Service\\Exceptions\\SportManagementException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:09:24.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Auditable.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Common\\Auditable.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Domain\\Common\\Auditable.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Domain\\Common\\Auditable.cs",
+              "RelativeToolTip": "src\\SportManagement.Domain\\Common\\Auditable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:48:26.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Data\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\SportManagement.Data\\DbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Data\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "src\\SportManagement.Data\\DbContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:27:26.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SportManagement.Data.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Data\\SportManagement.Data.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "src\\SportManagement.Data\\SportManagement.Data.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagement.Data\\SportManagement.Data.csproj.Backup.tmp",
+              "RelativeToolTip": "src\\SportManagement.Data\\SportManagement.Data.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-26T11:41:04.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\SportManagementApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\appsettings.json",
+              "RelativeToolTip": "src\\SportManagementApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T11:27:32.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SportManagementApi.http",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\SportManagementApi.http",
+              "RelativeDocumentMoniker": "src\\SportManagementApi\\SportManagementApi.http",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\SportManagementApi.http",
+              "RelativeToolTip": "src\\SportManagementApi\\SportManagementApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-26T11:31:25.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagementApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SportManagementApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagementApi\\appsettings.json",
+              "RelativeToolTip": "SportManagementApi\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T11:00:08.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "SportManagement.Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "SportManagement.Data\\Repositories\\Repository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:58:09.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Data\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SportManagement.Data\\DbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Data\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "SportManagement.Data\\DbContext\\AppDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:50:29.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Entities\\Score.cs",
+              "RelativeDocumentMoniker": "SportManagement.Domain\\Entities\\Score.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Entities\\Score.cs",
+              "RelativeToolTip": "SportManagement.Domain\\Entities\\Score.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:40:08.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Entities\\Match.cs",
+              "RelativeDocumentMoniker": "SportManagement.Domain\\Entities\\Match.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Entities\\Match.cs",
+              "RelativeToolTip": "SportManagement.Domain\\Entities\\Match.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:39:30.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "SportManagement.Domain\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Entities\\Player.cs",
+              "RelativeToolTip": "SportManagement.Domain\\Entities\\Player.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:37:49.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Entities\\Team.cs",
+              "RelativeDocumentMoniker": "SportManagement.Domain\\Entities\\Team.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Entities\\Team.cs",
+              "RelativeToolTip": "SportManagement.Domain\\Entities\\Team.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:38:07.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Data\\IRepositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "SportManagement.Data\\IRepositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Data\\IRepositories\\IRepository.cs",
+              "RelativeToolTip": "SportManagement.Data\\IRepositories\\IRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:57:50.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Auditable.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Common\\Auditable.cs",
+              "RelativeDocumentMoniker": "SportManagement.Domain\\Common\\Auditable.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Common\\Auditable.cs",
+              "RelativeToolTip": "SportManagement.Domain\\Common\\Auditable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:34:33.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MatchResults.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Enums\\MatchResults.cs",
+              "RelativeDocumentMoniker": "SportManagement.Domain\\Enums\\MatchResults.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\Enums\\MatchResults.cs",
+              "RelativeToolTip": "SportManagement.Domain\\Enums\\MatchResults.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:42:35.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SportManagement.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\SportManagement.Domain.csproj",
+              "RelativeDocumentMoniker": "SportManagement.Domain\\SportManagement.Domain.csproj",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Domain\\SportManagement.Domain.csproj",
+              "RelativeToolTip": "SportManagement.Domain\\SportManagement.Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T10:34:38.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "SportManagement.Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\SportManagement.Service\\Class1.cs",
+              "RelativeToolTip": "SportManagement.Service\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:34:10.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

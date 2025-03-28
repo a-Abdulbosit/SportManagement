@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "xx0tmbD7Fej+BQVp+9v26dd8VTGf66Glsf/OuaNXDSg=",
+  "Source": "SportManagementApi",
+  "BasePath": "_content/SportManagementApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SportManagementApi\\wwwroot",
+      "Source": "SportManagementApi",
+      "ContentRoot": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\wwwroot\\",
+      "BasePath": "_content/SportManagementApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\wwwroot\\images\\932aad4d-31d0-4600-9c8b-7d3b8833b8d1_Без названия (1).jfif",
+      "SourceId": "SportManagementApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\wwwroot\\",
+      "BasePath": "_content/SportManagementApi",
+      "RelativePath": "images/932aad4d-31d0-4600-9c8b-7d3b8833b8d1_Без названия (1)#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "snmhr5khjf",
+      "Integrity": "CMQb6Sc9qAetPxQ1cnzy7craOYqkml4TFEyxLYLyFXc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\932aad4d-31d0-4600-9c8b-7d3b8833b8d1_Без названия (1).jfif"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/932aad4d-31d0-4600-9c8b-7d3b8833b8d1_Без названия (1).jfif",
+      "AssetFile": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\wwwroot\\images\\932aad4d-31d0-4600-9c8b-7d3b8833b8d1_Без названия (1).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CMQb6Sc9qAetPxQ1cnzy7craOYqkml4TFEyxLYLyFXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 07:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CMQb6Sc9qAetPxQ1cnzy7craOYqkml4TFEyxLYLyFXc="
+        }
+      ]
+    },
+    {
+      "Route": "images/932aad4d-31d0-4600-9c8b-7d3b8833b8d1_Без названия (1).snmhr5khjf.jfif",
+      "AssetFile": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\wwwroot\\images\\932aad4d-31d0-4600-9c8b-7d3b8833b8d1_Без названия (1).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CMQb6Sc9qAetPxQ1cnzy7craOYqkml4TFEyxLYLyFXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 07:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "snmhr5khjf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/932aad4d-31d0-4600-9c8b-7d3b8833b8d1_Без названия (1).jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CMQb6Sc9qAetPxQ1cnzy7craOYqkml4TFEyxLYLyFXc="
+        }
+      ]
+    }
+  ]
+}

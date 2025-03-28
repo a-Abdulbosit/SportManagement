@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Zuc\\source\\repos\\SportManagementApi\\src\\SportManagementApi\\wwwroot\\images\\932aad4d-31d0-4600-9c8b-7d3b8833b8d1_Без названия (1).jfif",
+      "PackagePath": "staticwebassets\\images\\932aad4d-31d0-4600-9c8b-7d3b8833b8d1_Без названия (1).jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SportManagementApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SportManagementApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SportManagementApi.props",
+      "PackagePath": "build\\SportManagementApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SportManagementApi.props",
+      "PackagePath": "buildMultiTargeting\\SportManagementApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SportManagementApi.props",
+      "PackagePath": "buildTransitive\\SportManagementApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
