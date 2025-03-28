@@ -26,3 +26,4 @@ C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagement.Service\bin\Deb
 C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagement.Service\bin\Debug\net8.0\SportManagement.Domain.pdb
 C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagement.Service\obj\Debug\net8.0\SportManagement.Service.csproj.AssemblyReference.cache
 C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagement.Service\obj\Debug\net8.0\SportMan.E80B0A49.Up2Date
+C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagement.Service\obj\Debug\net8.0\SportManagement.Service.sourcelink.json

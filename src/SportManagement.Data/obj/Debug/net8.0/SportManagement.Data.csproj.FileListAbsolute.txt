@@ -32,3 +32,4 @@ C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagement.Data\bin\Debug\
 C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagement.Data\obj\Debug\net8.0\SportMan.CEDA9001.Up2Date
 C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagement.Data\obj\Debug\net8.0\SportManagement.Data.genruntimeconfig.cache
 C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagement.Data\obj\Debug\net8.0\ref\SportManagement.Data.dll
+C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagement.Data\obj\Debug\net8.0\SportManagement.Data.sourcelink.json

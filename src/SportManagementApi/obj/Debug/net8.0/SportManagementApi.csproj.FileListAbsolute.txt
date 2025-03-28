@@ -364,3 +364,5 @@ C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagementApi\bin\Debug\ne
 C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagementApi\bin\Debug\net8.0\SportManagement.Service.pdb
 C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagementApi\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagementApi\bin\Debug\net8.0\SportManagementApi.staticwebassets.runtime.json
+C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagementApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagementApi\obj\Debug\net8.0\SportManagementApi.sourcelink.json

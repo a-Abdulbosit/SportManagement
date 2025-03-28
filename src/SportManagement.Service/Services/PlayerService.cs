@@ -8,8 +8,6 @@ using SportManagement.Domain.Entities;
 using SportManagement.Service.DTOs.Players;
 using SportManagement.Service.Exceptions;
 using SportManagement.Service.Interfaces;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace SportManagement.Service.Services
 {

@@ -4,6 +4,7 @@ using SportManagement.Service.DTOs.Matches;
 using SportManagement.Service.DTOs.Players;
 using SportManagement.Service.DTOs.Scores;
 using SportManagement.Service.DTOs.Teams;
+using SportManagement.Service.DTOs.Users;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -31,6 +32,10 @@ namespace SportManagement.Service.Mappers
             CreateMap<Team, TeamForCreationDto>().ReverseMap();
             CreateMap<Team, TeamForUpdateDto>().ReverseMap();
             CreateMap<Team, TeamForResultDto>().ReverseMap();
+
+            CreateMap<User, UserForResultDto>().ReverseMap();
+            CreateMap<UserForCreationDto, User>().ReverseMap();
+            CreateMap<UserForUpdateDto, User>().ReverseMap();
         }
     }
 }

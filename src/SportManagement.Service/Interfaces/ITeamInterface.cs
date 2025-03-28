@@ -1,10 +1,4 @@
-﻿using SportManagement.Service.DTOs.Matches;
-using SportManagement.Service.DTOs.Teams;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using SportManagement.Service.DTOs.Teams;
 
 namespace SportManagement.Service.Interfaces
 {

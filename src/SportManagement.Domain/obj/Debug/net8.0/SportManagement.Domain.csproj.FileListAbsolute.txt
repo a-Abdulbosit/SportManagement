@@ -21,3 +21,4 @@ C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagement.Domain\obj\Debu
 C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagement.Domain\obj\Debug\net8.0\SportManagement.Domain.pdb
 C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagement.Domain\obj\Debug\net8.0\ref\SportManagement.Domain.dll
 C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagement.Domain\obj\Debug\net8.0\SportManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagement.Domain\obj\Debug\net8.0\SportManagement.Domain.sourcelink.json
