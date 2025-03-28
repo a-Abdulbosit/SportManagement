@@ -20,7 +20,11 @@ namespace SportManagement.Service.Services
             this.userRepository = userRepository;
         }
 
-
+        /// <summary>
+        /// Adds a new user to the system.
+        /// </summary>
+        /// <param name="dto">User creation DTO</param>
+        /// <returns>The newly created user</returns>
         public async Task<UserForResultDto> AddAsync(UserForCreationDto dto)
         {
             UserValidator.ValidateUser(dto);
@@ -36,7 +40,12 @@ namespace SportManagement.Service.Services
 
             return mapper.Map<UserForResultDto>(newUser);
         }
-
+        /// <summary>
+        /// Updates an existing user's details.
+        /// </summary>
+        /// <param name="id">User ID</param>
+        /// <param name="dto">User update DTO</param>
+        /// <returns>The updated user</returns>
         public async Task<UserForResultDto> ModifyAsync(long id, UserForUpdateDto dto)
         {
             UserValidator.ValidateUser(mapper.Map<UserForCreationDto>(dto));
@@ -56,7 +65,11 @@ namespace SportManagement.Service.Services
 
             return mapper.Map<UserForResultDto>(updatedUser);
         }
-
+        /// <summary>
+        /// Deletes a user by ID.
+        /// </summary>
+        /// <param name="id">User ID</param>
+        /// <returns>Boolean indicating success</returns>
         public async Task<bool> RemoveAsync(long id)
         {
             var user = await userRepository.SelectByIdAsync(id);
@@ -66,7 +79,10 @@ namespace SportManagement.Service.Services
             await userRepository.DeleteAsync(id);
             return true;
         }
-
+        /// <summary>
+        /// Retrieves all users.
+        /// </summary>
+        /// <returns>List of users</returns>
         public async Task<IEnumerable<UserForResultDto>> RetrieveAllAsync()
         {
             var users = await userRepository.SelectAll()
@@ -75,7 +91,11 @@ namespace SportManagement.Service.Services
 
             return mapper.Map<IEnumerable<UserForResultDto>>(users);
         }
-
+        /// <summary>
+        /// Retrieves a user by ID.
+        /// </summary>
+        /// <param name="id">User ID</param>
+        /// <returns>The requested user</returns>
         public async Task<UserForResultDto> RetrieveByIdAsync(long id)
         {
             var user = await userRepository.SelectByIdAsync(id);

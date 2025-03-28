@@ -366,3 +366,4 @@ C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagementApi\bin\Debug\ne
 C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagementApi\bin\Debug\net8.0\SportManagementApi.staticwebassets.runtime.json
 C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagementApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagementApi\obj\Debug\net8.0\SportManagementApi.sourcelink.json
+C:\Users\Zuc\source\repos\SportManagementApi\src\SportManagementApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
